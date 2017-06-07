@@ -1,0 +1,9 @@
+{
+  "name": "wallaby-1186",
+  "version": "0.0.1",
+  "dependencies": {
+    "electron": "^1.6.10",
+    "typescript": "^2.3.4",
+    "wallaby-ng-html2js-preprocessor": "^0.1.0"
+  }
+}
